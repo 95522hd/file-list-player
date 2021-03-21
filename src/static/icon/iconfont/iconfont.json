@@ -1,0 +1,58 @@
+{
+  "id": "1785773",
+  "name": "mediaPlayer",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "20350691",
+      "name": "静音",
+      "font_class": "mute",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "20350699",
+      "name": "音量",
+      "font_class": "volume",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "4685760",
+      "name": "收缩",
+      "font_class": "exitFullScreen",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "7533288",
+      "name": "全屏",
+      "font_class": "fullScreen",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "2325937",
+      "name": "图片",
+      "font_class": "photo",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "1473537",
+      "name": "音乐",
+      "font_class": "voice",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "10622225",
+      "name": "视频",
+      "font_class": "video",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    }
+  ]
+}

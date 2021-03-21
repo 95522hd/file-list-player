@@ -1,6 +1,7 @@
 import Vue from 'vue';
 import App from "./components/App";
 import 'element-ui/lib/theme-chalk/index.css'
+import './static/icon/iconfont/iconfont.css'
 
 import {
 	Carousel,
